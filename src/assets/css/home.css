@@ -1,0 +1,20 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    height: 75vh;
+}
+
+.home  h1{
+    font-size: 45px;
+}
+
+.home  p{
+    font-size: 25px;
+}
+
+.home img{
+    width: 150px;
+}
